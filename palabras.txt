@@ -1,0 +1,13 @@
+visual encodings
+time-series data
+hierarchies
+time-series-values
+drill-down
+overlapping curves
+data density
+exploratory data analysis
+box-and-whisker plot
+quantiles
+multivariate data
+phylogenetic trees
+seriation
